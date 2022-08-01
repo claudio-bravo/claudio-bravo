@@ -35,7 +35,7 @@
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="www.linkedin.com/in/claudiobravoluis" target="_blank">
+<a href="http://linkedin.com/in/claudiobravoluis" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-claudiobravoluis-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/claudiobravo517" target="_blank">
