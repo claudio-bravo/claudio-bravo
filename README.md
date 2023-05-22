@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/claudio-bravo/4ddcf623f672afa1a34f3fda7096b77c/raw/43c5359ac3c4225927c05f12765440d2641fb6ae/Avatar.svg"/>
+<!-- <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/claudio-bravo/4ddcf623f672afa1a34f3fda7096b77c/raw/43c5359ac3c4225927c05f12765440d2641fb6ae/Avatar.svg"/> -->
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Cláudio Bravo</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=claudio-bravo&color=yellow" alt="Profile views" /> </p>
 
