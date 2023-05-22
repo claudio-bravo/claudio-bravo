@@ -5,9 +5,9 @@
 
 - 👋 Hi, I’m Cláudio Bravo.
 - 🔥Junior FrontEnd Developer focused on learning more and more...
-- 👀 I'm interested in learning Back End...
-- 💞️ I fell in love with programming...
-- 💞️🌱 Having the ability to create is amazing....
+- 👀 I am interested in becoming an expert in the Front End niche...
+- 😍 I fell in love with programming...
+- 💞️👩🏾‍💻🌱 Having the ability to create is amazing....
 
 
 <br><br>
@@ -23,6 +23,8 @@
 ![Next](https://img.shields.io/badge/-Next-05122A?style=flat&logo=next)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Git](https://img.shields.io/badge/-...-05122A?style=flat&logo)&nbsp;
+
 
 <br><br>
 
@@ -43,8 +45,8 @@
 <a href="https://instagram.com/claudiobravo517" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-claudiobravo517-05122A?style=flat&logo=instagram" alt="instagram"/>
   
-  <a href="https://dev.to/claudiobravo" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-claudiobravo-05122A?style=flat&logo=dev.to" alt="dev.to"/>
+<!--   <a href="https://dev.to/claudiobravo" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-claudiobravo-05122A?style=flat&logo=dev.to" alt="dev.to"/> -->
 </a>
 </p>
 
