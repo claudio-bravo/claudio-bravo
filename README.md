@@ -8,11 +8,8 @@
 - 😍 Passionate about programming...
 - 💞️👩🏾‍💻🌱 Having the ability to create is amazing....
 <br>
-
 👉It doesn't matter how slow you go, as long as you don't stop.
-
 <br>
-
 ## 🛠 &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -26,16 +23,14 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-...-05122A?style=flat&logo)&nbsp;
 
-
-<br><br>
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=claudio-bravo&show_icons=true&theme=vision-friendly-dark" alt="claudio-bravo's stats"/>
 </p>
-
-<br><br>
+<br>
 
 ## Contact
 
