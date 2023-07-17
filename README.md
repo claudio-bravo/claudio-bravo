@@ -7,9 +7,9 @@
 - 👀 I am interested in becoming an expert in the Front End niche...
 - 😍 Passionate about programming...
 - 💞️👩🏾‍💻🌱 Having the ability to create is amazing....
-<br>
+<br><br>
 👉It doesn't matter how slow you go, as long as you don't stop.
-<br>
+<br><br>
 ## 🛠 &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
